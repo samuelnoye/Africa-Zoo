@@ -4,11 +4,11 @@
     "name" : "Cheetah",
     "headline" : "Cheetah walking in the savannah"
   },
-  {
-    "id" : "elephant",
-    "name" : "Elephant",
-    "headline" : "African elephant with calf walking"
-  },
+  // {
+  //   "id" : "elephant",
+  //   "name" : "Elephant",
+  //   "headline" : "African elephant with calf walking"
+  // },
   {
     "id" : "giraffe",
     "name" : "Giraffe",
