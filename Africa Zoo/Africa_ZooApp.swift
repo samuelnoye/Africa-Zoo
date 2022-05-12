@@ -5,13 +5,13 @@
 //  Created by Samuel Noye on 11/12/2021.
 //
 
-import SwiftUI
+// import SwiftUI
 
-@main
-struct Africa_ZooApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
-    }
-}
+// @main
+// struct Africa_ZooApp: App {
+//     var body: some Scene {
+//         WindowGroup {
+//             ContentView()
+//         }
+//     }
+// }
