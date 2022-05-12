@@ -202,11 +202,11 @@
       "ostrich-3",
       "ostrich-4"
     ],
-    // "fact" : [
-    //   "An ostrich can reach a speed of 70kmh. This is not only the fastest land speed of any bird, and the fastest of any two-legged creature, but also faster than most birds can fly.",
-    //   "An ostrich’s eggs are the largest of any bird: at up to 15cm long and weighing up to 1.4kg. They are 20 times the size of a domestic chicken’s.",
-    //   "Ostriches have the largest eyes of any land animal, measuring up to 5cm across. This helps them to perceive predators at a great distance. Heavy eyelashes help shield them from the sun."
-    // ]
+    "fact" : [
+      "An ostrich can reach a speed of 70kmh. This is not only the fastest land speed of any bird, and the fastest of any two-legged creature, but also faster than most birds can fly.",
+      "An ostrich’s eggs are the largest of any bird: at up to 15cm long and weighing up to 1.4kg. They are 20 times the size of a domestic chicken’s.",
+      "Ostriches have the largest eyes of any land animal, measuring up to 5cm across. This helps them to perceive predators at a great distance. Heavy eyelashes help shield them from the sun."
+    ]
   },
   {
     "id" : "gorilla",
