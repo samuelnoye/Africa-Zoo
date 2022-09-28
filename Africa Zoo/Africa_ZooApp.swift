@@ -10,7 +10,7 @@ import SwiftUI
 @main
 struct Africa_ZooApp: App {
     var body: some Scene {
-        WindowGroup {
+      //  WindowGroup {
             ContentView()
         }
     }
