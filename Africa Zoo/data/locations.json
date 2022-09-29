@@ -38,7 +38,7 @@
     "id" : "solonga",
     "name" : "Solonga National Park",
     "image" : "map-solonga",
-   // "latitude" : -1.9999932,
+    "latitude" : -1.9999932,
     "longitude" : 21.0002492
   }
 ]
