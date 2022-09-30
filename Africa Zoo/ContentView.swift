@@ -29,3 +29,4 @@ struct ContentView_Previews: PreviewProvider {
     // MARK: - View Life Cycle
     // MARK: - IBActions
         // MARK: - Custom Functions
+        // MARK: - Extension
