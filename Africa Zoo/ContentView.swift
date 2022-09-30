@@ -26,3 +26,4 @@ struct ContentView_Previews: PreviewProvider {
     // MARK: - Variables
     
     // MARK: - Constants
+    // MARK: - View Life Cycle
