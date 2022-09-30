@@ -27,3 +27,4 @@ struct ContentView_Previews: PreviewProvider {
     
     // MARK: - Constants
     // MARK: - View Life Cycle
+    // MARK: - IBActions
