@@ -24,7 +24,7 @@ struct ContentView_Previews: PreviewProvider {
 
 // MARK: - Protocols
     
-    // MARK: - Variables
+     MARK: - Variables
     
     // MARK: - Constants
     // MARK: - View Life Cycle
