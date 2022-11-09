@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         // Do any additional setup after loading the view.
-       // Text("Hello, world!")
+        Text("Hello, world!")
             .padding()
     }
 }
